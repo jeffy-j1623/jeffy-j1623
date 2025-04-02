@@ -30,12 +30,7 @@
 
 ## 🛠 Tech Stack & Tools I Know 
 
-**Frontend:** <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  
-**Version Control:** <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>   <img height="50" width="50" src="https://img.icons8.com/ios-glyphs/480/null/github.png"/>   
-**IDE:** <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-**Design:**  <img height="50" width="50" src="https://img.icons8.com/color/480/null/canva.png"/> 
-**Content Writing:** <img height="50" widith="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/480/null/google-docs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/480/null/grammarly.png"/>
-**Other:**  <img height="50" src="https://img.icons8.com/ios/480/null/markdown.png"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/ios-glyphs/480/null/github.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/480/null/canva.png"/> <img height="50" widith="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/480/null/google-docs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/480/null/grammarly.png"/> <img height="50" src="https://img.icons8.com/ios/480/null/markdown.png"/>
 
 <!-- https://en.wikipedia.org/wiki/File:Markdown-mark.svg   https://img.icons8.com/?size=100&id=21812&format=png-->  https://img.icons8.com/color/480/null/grammarly.png
 ---
