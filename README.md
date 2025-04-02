@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Jeffy]!
+# 👋 Hello, I'm [Jeffy]! 
 
 🚀 **Aspiring Frontend Developer | Content Writer** 
 📍 BS Degree Student at **IIT Madras**  
@@ -26,6 +26,5 @@
 
 🌐 **Portfolio (Coming Soon!)**  
 💼 [LinkedIn](www.linkedin.com/in/jeffy-j1623)   
-📩 **Email:** j.jeffy2025@gmail.com
 
 ---
