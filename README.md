@@ -1,21 +1,25 @@
 # 👋 Hello, I'm [Jeffy]!
 
-🚀 **Aspiring Frontend Developer | UI/UX Enthusiast**  
+🚀 **Aspiring Frontend Developer | Content Writer** 
 📍 BS Degree Student at **IIT Madras**  
-📌 Exploring **Modern Frontend Technologies, Interactive UI/UX design, and Canva for creative design**
+📌 Exploring **Modern Frontend Technologies, and Canva for creative design**
 
 ---
-<!--
-**jeffy-j1623/jeffy-j1623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about **frontend development**.
+- 🎯 On a mission to master **React, TypeScript, and modern web frameworks**.
+- 🏗 Building a **structured learning repository** to document my journey.
+- 📚 Showcasing my **projects and learning progress** on **GitHub & LinkedIn**
+
+---
+
+
+## 📬 Let's Connect!
+
+🌐 **Portfolio (Coming Soon!)**  
+💼 [LinkedIn](https://linkedin.com/in/yourprofile)   
+📩 **Email:** j.jeffy2025@gmail.com
+
+---
