@@ -20,7 +20,7 @@
 ### 🔹 **[Dev Labs](https://github.com/jeffy-j1623/dev-labs)** – *Practice Repository*
 > Hands-on exercises & structured learning of frontend technologies.
 
-### 🔹 **Dev Arena** – *Competitive Programming & Problem-Solving Repository*
+### 🔹 **[Dev Arena](https://github.com/jeffy-j1623/dev-arena)** – *Competitive Programming & Problem-Solving Repository*
 > Practicing competitive programming problems, coding exercises, and algorithmic challenges.
 
 ### 🔹 **[Dev Portfolio](https://github.com/jeffy-j1623/dev-portfolio)** – *Projects Repository*
