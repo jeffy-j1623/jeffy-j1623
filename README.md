@@ -1,8 +1,8 @@
 # 👋 Hello, I'm [Jeffy]!
 
-🚀 **Aspiring Frontend Developer | UI/UX Enthusiast | Open Source Contributor**  
+🚀 **Aspiring Frontend Developer | UI/UX Enthusiast**  
 📍 BS Degree Student at **IIT Madras**  
-📌 Exploring **modern frontend technologies, performance optimization, interactive UI/UX design, and Canva for creative design**
+📌 Exploring **Modern Frontend Technologies, Interactive UI/UX design, and Canva for creative design**
 
 ---
 <!--
