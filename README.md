@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Jeffy]! 
 
-🚀 **Aspiring Frontend Developer | Content Writer** 
+🚀 **Aspiring Frontend Developer | Content Writer** <br>
 📍 BS Degree Student at **IIT Madras**  
 📌 Exploring **Modern Frontend Technologies, and Canva for creative design**
 
