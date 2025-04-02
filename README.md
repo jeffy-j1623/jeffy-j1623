@@ -36,7 +36,7 @@
 
 ## 📬 Let's Connect!
 
+💼 [LinkedIn](https://www.linkedin.com/in/jeffy-j1623/)  
 🌐 **Portfolio (Coming Soon!)**  
-💼 [LinkedIn](https://www.linkedin.com/in/jeffy-j1623/)   
 
 ---
