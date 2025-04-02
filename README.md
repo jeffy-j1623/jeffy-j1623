@@ -10,7 +10,7 @@
 
 - 💻 Passionate about **frontend development**.
 - 🎯 On a mission to master **React, TypeScript, and modern web frameworks**.
-- 🏗 Building a **structured learning repository** to document my journey.
+- 🏗 Building **structured learning repositores** to document my journey.
 - 📚 Showcasing my **projects and learning progress** on **GitHub & LinkedIn**
 
 ---
