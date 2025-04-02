@@ -1,5 +1,10 @@
-## Hi there 👋
+# 👋 Hello, I'm [Jeffy]!
 
+🚀 **Aspiring Frontend Developer | UI/UX Enthusiast | Open Source Contributor**  
+📍 BS Degree Student at **IIT Madras**  
+📌 Exploring **modern frontend technologies, performance optimization, interactive UI/UX design, and Canva for creative design**
+
+---
 <!--
 **jeffy-j1623/jeffy-j1623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
