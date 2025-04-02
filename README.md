@@ -25,7 +25,7 @@
 ## 📬 Let's Connect!
 
 🌐 **Portfolio (Coming Soon!)**  
-💼 [LinkedIn] (www.linkedin.com/in/jeffy-j1623)   
+💼 [LinkedIn](www.linkedin.com/in/jeffy-j1623)   
 📩 **Email:** j.jeffy2025@gmail.com
 
 ---
