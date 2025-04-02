@@ -15,6 +15,12 @@
 
 ---
 
+## 📂 My GitHub Repositories
+
+### 🔹 **Dev Labs** – *Practice Repository*
+> Hands-on exercises & structured learning of frontend technologies.
+
+---
 
 ## 📬 Let's Connect!
 
