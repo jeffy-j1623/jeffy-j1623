@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Jeffy]! 
+# 👋 Hello, I'm Jeffy! 
 
 🚀 **Aspiring Frontend Developer | Content Writer** <br>
 📍 BS Degree Student at **IIT Madras**  
