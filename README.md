@@ -2,6 +2,7 @@
 
 🚀 **Aspiring Frontend Developer | Content Writer | Canva Designer** <br>
 📍 BS Degree Student at **IIT Madras**  
+💎 BCA Student at **BIHER CHENNAI**
 📌 Exploring **Modern Frontend Technologies, and Canva for creative design**
 
 ---
